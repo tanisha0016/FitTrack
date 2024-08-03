@@ -50,12 +50,11 @@ To get started with this project, follow these steps:
    ```bash
    cd your-repo
 
-   ```bash
-   npm install
 3. **Run the development server**
 
 ```bash
+npm install
 npm run dev
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
