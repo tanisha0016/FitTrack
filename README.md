@@ -47,13 +47,10 @@ To get started with this project, follow these steps:
    git clone https://github.com/your-username/your-repo.git
 Navigate into the project directory
 
-bash
-Copy code
+```bash
 cd your-repo
-Install dependencies
 
-bash
-Copy code
+```bash
 npm install
 Run the development server
 
@@ -66,36 +63,6 @@ You should see the application running locally.
 
 File Structure
 css
-Copy code
-.
-├── public
-│   ├── contact.jpg
-│   ├── img1.webp
-│   ├── img2.jpg
-│   ├── img3.jpg
-│   ├── img4.jpg
-│   ├── img5.jpg
-│   ├── img6.jpg
-│   ├── img7.jpg
-│   ├── img8.jpg
-│   └── bmi.jpg
-├── src
-│   ├── components
-│   │   ├── BMICalculator.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Gallery.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Pricing.jsx
-│   │   └── WorkoutSessions.jsx
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.html
-│   ├── main.jsx
-│   └── vite.config.js
-├── package.json
-├── package-lock.json
-└── README.md
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
