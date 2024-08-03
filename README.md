@@ -56,5 +56,5 @@ To get started with this project, follow these steps:
 npm install
 npm run dev
 
-## License
+  ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
