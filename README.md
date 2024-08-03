@@ -45,24 +45,17 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/your-repo.git
-Navigate into the project directory
+2. **Navigate into the project directory**
+
+   ```bash
+   cd your-repo
+
+   ```bash
+   npm install
+3. **Run the development server**
 
 ```bash
-cd your-repo
-
-```bash
-npm install
-Run the development server
-
-bash
-Copy code
 npm run dev
-Open your browser and navigate to http://localhost:3000
-
-You should see the application running locally.
-
-File Structure
-css
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
