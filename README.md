@@ -53,8 +53,8 @@ To get started with this project, follow these steps:
 3. **Run the development server**
 
 ```bash
-npm install
-npm run dev
+  npm install
+  npm run dev
 ```
 
  ## License
